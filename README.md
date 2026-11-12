@@ -16,7 +16,7 @@ I'm interested in backend development, databases and building practical software
 ### Projects
 
 - **Kronet:** Time-bank platform developed with PHP and MySQL as part of a team project.
-- **Dance Academy App:** Appointment management application developed using FlutterFlow and Supabase.
+- **Triage Support tool:** AI-assisted incident triage system using similarity scoring, technical traces, indexed documentation and contextual AI.
 
 ### Connect with me
 
